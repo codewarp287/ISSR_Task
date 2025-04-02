@@ -1,4 +1,4 @@
-**GSoC Candidate Assessment Submission**  
+## GSoC Candidate Assessment Submission
 
 ## 📌 Overview  
 This project analyzes crisis-related social media discussions, applying **NLP, sentiment analysis, and geospatial mapping** to detect mental health distress trends.  
