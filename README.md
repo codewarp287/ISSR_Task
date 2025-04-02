@@ -20,4 +20,6 @@ This project analyzes crisis-related social media discussions, applying **NLP, s
 - Extracted locations from **NLP-based place recognition**.  
 - Generated:  
   - 🗺️ **Heatmap of all crisis discussions**  
-  - 📍 **Top 5 crisis locations mapped separately**  
+  - 📍 **Top 5 crisis locations mapped separately**
+ 
+To view the rendered maps, please either download the file or visit [this](https://nbviewer.org/github/codewarp287/ISSR_Task/blob/main/evaluation_task.ipynb) link.
